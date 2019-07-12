@@ -1,0 +1,30 @@
+html{
+    background-color:tan;
+  }
+  h1{
+    font-style:impact;
+    text-align:center;
+    font-family: 'Rock Salt', cursive;
+  }
+  h3{
+    font-style:ariel;
+    justify-content:end;
+    font-family: 'Schoolbell', cursive;
+  }
+  img{
+    display:flex;
+    
+  }
+  #welcoming{
+    text-align:center;
+    font-size:50px;
+    font-style:verdana;
+  }
+  p{
+      font-size: 20px;
+      margin-right: 100px;
+      font-family: 'Schoolbell', cursive;
+  }
+  h2 {
+    font-family: 'Covered By Your Grace', cursive;
+  }
